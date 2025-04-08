@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://64.media.tumblr.com/aebf46c47d76937aa60a7612ff146760/f5cf6f39d5a64467-c6/s500x750/8dd9b47d764a738191aeeacee8d61b0dd0042add.gifv" width="100" height="100"/>
-  <img src="https://64.media.tumblr.com/aebf46c47d76937aa60a7612ff146760/f5cf6f39d5a64467-c6/s500x750/8dd9b47d764a738191aeeacee8d61b0dd0042add.gifv" width="100" height="100"/>
+  <img src="https://64.media.tumblr.com/aebf46c47d76937aa60a7612ff146760/f5cf6f39d5a64467-c6/s500x750/8dd9b47d764a738191aeeacee8d61b0dd0042add.gifv" width="100" height="50"/>
+  <img src="https://64.media.tumblr.com/aebf46c47d76937aa60a7612ff146760/f5cf6f39d5a64467-c6/s500x750/8dd9b47d764a738191aeeacee8d61b0dd0042add.gifv" width="100" height="50"/>
 </div>
 
 # ¡Hola! 👋 Soy Pablo "Payr" Yáñez
