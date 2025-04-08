@@ -10,6 +10,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Software+Developer;Full+Stack+Developer;Data+Science+MS;Adelante+Fuerza" alt="Typing SVG" />
 </div>
 
+<div align="center">
+  <img src="https://64.media.tumblr.com/aebf46c47d76937aa60a7612ff146760/f5cf6f39d5a64467-c6/s500x750/8dd9b47d764a738191aeeacee8d61b0dd0042add.gifv"/>
+</div>
+
 ## 👨‍💻 Sobre mí
 
 ```javascript
