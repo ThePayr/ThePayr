@@ -1,7 +1,7 @@
 # ¡Hola! 👋 Soy Pablo "Payr" Yáñez
 
 <div align="center">
-  <img src="https://media.tenor.com/DldnJaNJaG0AAAAM/teclado-elevado-techno.gif" alt="Techno Keyboard" width="800" height="400" style="border-radius: 10px; box-shadow: 0 0 20px rgba(0, 255, 0, 0.3);" />
+  <img src="https://media.tenor.com/DldnJaNJaG0AAAAM/teclado-elevado-techno.gif" alt="Techno Keyboard" width="500" height="300" style="border-radius: 10px; box-shadow: 0 0 20px rgba(0, 255, 0, 0.3);" />
 </div>
 
 <br />
