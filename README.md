@@ -1,6 +1,11 @@
 # ¡Hola! 👋 Soy Pablo "Payr" Yáñez
 
 <div align="center">
+  <img src="https://64.media.tumblr.com/aebf46c47d76937aa60a7612ff146760/f5cf6f39d5a64467-c6/s500x750/8dd9b47d764a738191aeeacee8d61b0dd0042add.gifv"/>
+  <img src="https://64.media.tumblr.com/aebf46c47d76937aa60a7612ff146760/f5cf6f39d5a64467-c6/s500x750/8dd9b47d764a738191aeeacee8d61b0dd0042add.gifv"/>
+</div>
+
+<div align="center">
   <img src="https://media.tenor.com/DldnJaNJaG0AAAAM/teclado-elevado-techno.gif" alt="Techno Keyboard" width="350" height="150" style="border-radius: 10px; box-shadow: 0 0 20px rgba(0, 255, 0, 0.3);" />
 </div>
 
@@ -8,11 +13,6 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Software+Developer;Full+Stack+Developer;Data+Science+MS;Adelante+Fuerza" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://64.media.tumblr.com/aebf46c47d76937aa60a7612ff146760/f5cf6f39d5a64467-c6/s500x750/8dd9b47d764a738191aeeacee8d61b0dd0042add.gifv"/>
-  <img src="https://64.media.tumblr.com/aebf46c47d76937aa60a7612ff146760/f5cf6f39d5a64467-c6/s500x750/8dd9b47d764a738191aeeacee8d61b0dd0042add.gifv"/>
 </div>
 
 ## 👨‍💻 Sobre mí
@@ -47,11 +47,6 @@ const thePayr = {
 };
 ```
 
-<div align="center">
-  <img src="https://64.media.tumblr.com/aebf46c47d76937aa60a7612ff146760/f5cf6f39d5a64467-c6/s500x750/8dd9b47d764a738191aeeacee8d61b0dd0042add.gifv"/>
-  <img src="https://64.media.tumblr.com/aebf46c47d76937aa60a7612ff146760/f5cf6f39d5a64467-c6/s500x750/8dd9b47d764a738191aeeacee8d61b0dd0042add.gifv"/>
-</div>
-
 ## 🚀 Mis Estadísticas
 
 <div align="center">
@@ -60,11 +55,6 @@ const thePayr = {
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThePayr&theme=radical&background=0D1117&border=00FF00" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://64.media.tumblr.com/aebf46c47d76937aa60a7612ff146760/f5cf6f39d5a64467-c6/s500x750/8dd9b47d764a738191aeeacee8d61b0dd0042add.gifv"/>
-  <img src="https://64.media.tumblr.com/aebf46c47d76937aa60a7612ff146760/f5cf6f39d5a64467-c6/s500x750/8dd9b47d764a738191aeeacee8d61b0dd0042add.gifv"/>
 </div>
 
 ## 💻 Tecnologías y Herramientas
@@ -111,20 +101,10 @@ const thePayr = {
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<div align="center">
-  <img src="https://64.media.tumblr.com/aebf46c47d76937aa60a7612ff146760/f5cf6f39d5a64467-c6/s500x750/8dd9b47d764a738191aeeacee8d61b0dd0042add.gifv"/>
-  <img src="https://64.media.tumblr.com/aebf46c47d76937aa60a7612ff146760/f5cf6f39d5a64467-c6/s500x750/8dd9b47d764a738191aeeacee8d61b0dd0042add.gifv"/>
-</div>
-
 ## 📊 Lenguajes Más Usados
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThePayr&layout=compact&theme=radical&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF" alt="Top Langs" />
-</div>
-
-<div align="center">
-  <img src="https://64.media.tumblr.com/aebf46c47d76937aa60a7612ff146760/f5cf6f39d5a64467-c6/s500x750/8dd9b47d764a738191aeeacee8d61b0dd0042add.gifv"/>
-  <img src="https://64.media.tumblr.com/aebf46c47d76937aa60a7612ff146760/f5cf6f39d5a64467-c6/s500x750/8dd9b47d764a738191aeeacee8d61b0dd0042add.gifv"/>
 </div>
 
 ## 🌐 Conéctate conmigo
@@ -134,12 +114,12 @@ const thePayr = {
 ---
 
 <div align="center">
-  <img src="https://64.media.tumblr.com/aebf46c47d76937aa60a7612ff146760/f5cf6f39d5a64467-c6/s500x750/8dd9b47d764a738191aeeacee8d61b0dd0042add.gifv"/>
-  <img src="https://64.media.tumblr.com/aebf46c47d76937aa60a7612ff146760/f5cf6f39d5a64467-c6/s500x750/8dd9b47d764a738191aeeacee8d61b0dd0042add.gifv"/>
-</div>
-
-<div align="center">
   <img src="https://komarev.com/ghpvc/?username=ThePayr&color=00FF00&style=flat-square&label=Visitas+al+Perfil" alt="Visitas al perfil" />
 </div>
 
 > 🌱 Siempre aprendiendo, siempre creciendo.
+
+<div align="center">
+  <img src="https://64.media.tumblr.com/aebf46c47d76937aa60a7612ff146760/f5cf6f39d5a64467-c6/s500x750/8dd9b47d764a738191aeeacee8d61b0dd0042add.gifv"/>
+  <img src="https://64.media.tumblr.com/aebf46c47d76937aa60a7612ff146760/f5cf6f39d5a64467-c6/s500x750/8dd9b47d764a738191aeeacee8d61b0dd0042add.gifv"/>
+</div>
