@@ -39,11 +39,11 @@ const thePayr = {
 ## 🚀 Mis Estadísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThePayr&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ThePayr&show_icons=true&theme=radical&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThePayr&theme=github-dark-blue" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThePayr&theme=radical&background=0D1117&border=00FF00" alt="GitHub Streak" />
 </div>
 
 ## 💻 Tecnologías y Herramientas
@@ -93,16 +93,17 @@ const thePayr = {
 ## 📊 Lenguajes Más Usados
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThePayr&layout=compact&theme=github_dark" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThePayr&layout=compact&theme=radical&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF" alt="Top Langs" />
 </div>
 
 ## 🌐 Conéctate conmigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
+
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ThePayr&color=blue&style=flat-square&label=Visitas+al+Perfil" alt="Visitas al perfil" />
+  <img src="https://komarev.com/ghpvc/?username=ThePayr&color=00FF00&style=flat-square&label=Visitas+al+Perfil" alt="Visitas al perfil" />
 </div>
 
 > 🌱 Siempre aprendiendo, siempre creciendo.
