@@ -1,7 +1,7 @@
-# ¡Hola! 👋 Soy ThePayr
+# ¡Hola! 👋 Soy Pablo "Payr" Yáñez
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=1F6FEB&center=true&vCenter=true&width=435&lines=Desarrollador+Full+Stack;Apasionado+por+la+tecnolog%C3%ADa;Siempre+aprendiendo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=#00FF00&center=true&vCenter=true&width=435&lines=Software+Developer;Full+Stack+Developer;Data+Science+MS;Adelante+Fuerza" alt="Typing SVG" />
 </div>
 
 ## 👨‍💻 Sobre mí
@@ -24,10 +24,15 @@ const thePayr = {
         gameDev: {
             unity: ["Unity", "C#"]
         },
+        cloud: {
+            aws: ["EC2", "S3", "Lambda", "RDS"],
+            azure: ["App Service", "Functions", "SQL Database"],
+            gcp: ["Compute Engine", "Cloud Functions", "Cloud SQL"]
+        },
         bases_de_datos: ["MongoDB", "MySQL", "PostgreSQL"],
         herramientas: ["Git", "GitHub", "VS Code", "Postman"]
     },
-    arquitectura: ["SPA", "MVC", "Serverless", "Microservicios"]
+    arquitectura: ["SPA", "MVC", "Serverless", "Microservicios", "Cloud Native"]
 };
 ```
 
@@ -63,6 +68,13 @@ const thePayr = {
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
 ### Game Development
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -87,9 +99,6 @@ const thePayr = {
 ## 🌐 Conéctate conmigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tu-perfil)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://tu-portfolio.com)
-
 ---
 
 <div align="center">
