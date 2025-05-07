@@ -2,7 +2,7 @@
   <img src="https://64.media.tumblr.com/aebf46c47d76937aa60a7612ff146760/f5cf6f39d5a64467-c6/s500x750/8dd9b47d764a738191aeeacee8d61b0dd0042add.gifv"/>
 </div>
 
-# ¡Hola! 👋 Soy Pablo "Payr" Yáñez
+# ¡Hi! 👋 I´m Pablo "Payr" Yáñez
 
 <div align="center">
   <img src="https://media.tenor.com/DldnJaNJaG0AAAAM/teclado-elevado-techno.gif" alt="Techno Keyboard" width="350" height="150" style="border-radius: 10px; box-shadow: 0 0 20px rgba(0, 255, 0, 0.3);" />
@@ -14,13 +14,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Software+Developer;Full+Stack+Developer;Data+Science+MS;Adelante+Fuerza" alt="Typing SVG" />
 </div>
 
-## 👨‍💻 Sobre mí
+## 👨‍💻 About Me
 
 ```javascript
 const thePayr = {
-    rol: "Desarrollador Full Stack",
+    rol: "Full Stack Developer",
     código: ["JavaScript", "TypeScript", "HTML", "CSS", "Python", "C#", "PHP"],
-    tecnologías: {
+    techs: {
         frontEnd: {
             js: ["React", "Next.js", "Vite"],
             css: ["Tailwind CSS", "Bootstrap", "Material UI"]
@@ -39,14 +39,16 @@ const thePayr = {
             azure: ["App Service", "Functions", "SQL Database"],
             gcp: ["Compute Engine", "Cloud Functions", "Cloud SQL"]
         },
-        bases_de_datos: ["MongoDB", "MySQL", "PostgreSQL"],
-        herramientas: ["Git", "GitHub", "VS Code", "Postman"]
+        data_base: ["MongoDB", "MySQL", "PostgreSQL"],
+        tools: ["Git", "GitHub", "VS Code", "Postman"]
     },
-    arquitectura: ["SPA", "MVC", "Serverless", "Microservicios", "Cloud Native"]
+    architecture: ["SPA", "MVC", "Serverless", "Microservicios", "Cloud Native"]
 };
 ```
+## ⚠ Note
+I'm currently developing most of my time in another private GitHub account that is related to the companny that I work for, therefor I don't have that many commits and MRs here :P  
 
-## 🚀 Mis Estadísticas
+## 🚀 My Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ThePayr&show_icons=true&theme=radical&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00" alt="GitHub Stats" />
@@ -56,7 +58,7 @@ const thePayr = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThePayr&theme=radical&background=0D1117&border=00FF00" alt="GitHub Streak" />
 </div>
 
-## 💻 Tecnologías y Herramientas
+## 💻 Experience
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -89,24 +91,24 @@ const thePayr = {
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-### Bases de Datos
+### Data Bases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Herramientas
+### Others
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## 📊 Lenguajes Más Usados
+## 📊 Most used languages
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThePayr&layout=compact&theme=radical&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF" alt="Top Langs" />
 </div>
 
-## 🌐 Conéctate conmigo
+## 🌐 Contact me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/payr)
 
@@ -116,7 +118,7 @@ const thePayr = {
   <img src="https://komarev.com/ghpvc/?username=ThePayr&color=00FF00&style=flat-square&label=Visitas+al+Perfil" alt="Visitas al perfil" />
 </div>
 
-> 🌱 Siempre aprendiendo, siempre creciendo.
+> 🌱 Always learning, always growing.
 <div align="center">
   <img src="https://64.media.tumblr.com/aebf46c47d76937aa60a7612ff146760/f5cf6f39d5a64467-c6/s500x750/8dd9b47d764a738191aeeacee8d61b0dd0042add.gifv"/>
 </div>
