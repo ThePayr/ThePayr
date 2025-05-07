@@ -46,7 +46,7 @@ const thePayr = {
 };
 ```
 ## ⚠ Note
-I'm currently developing most of my time in another private GitHub account that is related to the companny that I work for, therefor I don't have that many commits and MRs here :P  
+I'm currently developing most of my time in another private GitHub account that is related to the company that I work for, therefor I don't have that many commits and MRs here :P  
 
 ## 🚀 My Stats
 
